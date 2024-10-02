@@ -27,9 +27,4 @@ I've successfully completed a fascinating project in the hospitality domain, and
 
 It's been an incredible learning experience, exploring the specific challenges and insights of the hospitality domain. Each industry has its own unique data landscape to navigate.
 
-
-Dashboard Home Page:
-![Dashboard Page]("https://github.com/SannareddyHemalatha/Revenue_Insights_in_Hospitality_Domain/blob/9d80a6ab5d66233284495ea328bcf9c6a9d18958/Screenshot%20(25).png")
-
-
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
