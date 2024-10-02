@@ -29,7 +29,7 @@ It's been an incredible learning experience, exploring the specific challenges a
 
 
 Dashboard Home Page:
-![Dashboard Page]("C:\Users\sanna\OneDrive\Pictures\Screenshots\Screenshot (25).png")
+![Dashboard Page]("https://github.com/SannareddyHemalatha/Revenue_Insights_in_Hospitality_Domain/blob/9d80a6ab5d66233284495ea328bcf9c6a9d18958/Screenshot%20(25).png")
 
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
